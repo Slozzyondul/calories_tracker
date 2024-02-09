@@ -1,0 +1,3 @@
+[submodule "calories_tracker"]
+	path = calories_tracker
+	url = https://github.com/Slozzyondul/calories_tracker.git
